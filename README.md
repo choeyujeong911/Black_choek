@@ -11,3 +11,13 @@ Blackjack game with Python</br>
 > * `Global Field` : g_snake_case (g_ start | Lower start)
 > * `Local Field` : snake_case(Lower start)
 > * `Constant` : SNAKE_CASE (All Upper)
+</br>
+
+> ## Blackjack Rule
+> * `Dealer` : 1
+> * `Players` : 1-6
+> * `Start Chip` : 500
+> * `Number of Chips to bet (per game)` : 10-20
+> * User can control only ONE player in program.
+
+
