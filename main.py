@@ -1,6 +1,4 @@
-import math
 import random
-import time
 
 # 플레이어의 이름 리스트를 상수로 정의합니다.
 LAST_NAME_LIST = ["Kim", "Choe", "Park", "Lee", "Seo", "Jeon"]
